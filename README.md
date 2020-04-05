@@ -1,2 +1,6 @@
 # CODI-FE
-CODI Front End
+CODI Front End.
+
+## Tech
+- React
+- GraphQL
